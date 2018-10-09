@@ -1,0 +1,7 @@
+c:\users\max\source\repos\integerLab\integerLab\bin\Debug\integerLab.exe.config
+c:\users\max\source\repos\integerLab\integerLab\bin\Debug\integerLab.exe
+c:\users\max\source\repos\integerLab\integerLab\bin\Debug\integerLab.pdb
+c:\users\max\source\repos\integerLab\integerLab\obj\Debug\integerLab.csprojAssemblyReference.cache
+c:\users\max\source\repos\integerLab\integerLab\obj\Debug\integerLab.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\integerLab\integerLab\obj\Debug\integerLab.exe
+c:\users\max\source\repos\integerLab\integerLab\obj\Debug\integerLab.pdb
